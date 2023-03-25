@@ -43,7 +43,3 @@ Here are some ideas to get you started:
 ### Platform & Deployment
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
-
-
-## Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4sun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
