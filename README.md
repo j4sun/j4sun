@@ -1,9 +1,9 @@
 # j4sun
-🌟 product manager, software engineer
+🌟 Product manager, software engineer
 
-📍 sydneysider
+📍 Sydneysider
 
-🚴 avid cyclist, average surfer
+🚴 Avid cyclist, average surfer
 
 ## Technologies & Tools
 
