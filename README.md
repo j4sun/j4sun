@@ -1,3 +1,12 @@
+# j4sun
+🌟 Product manager, software engineer
+
+📍 Sydneysider
+
+🚴 Avid cyclist, average surfer
+
+## Technologies & Tools
+
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
