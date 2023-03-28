@@ -1,12 +1,3 @@
-# j4sun
-🌟 Product manager, software engineer
-
-📍 Sydneysider
-
-🚴 Avid cyclist, average surfer
-
-## Technologies & Tools
-
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -16,8 +7,10 @@
 ### Frontend Frameworks/Libraries
 ![NextJs](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
 
 ### Backend Frameworks/Libraries
+![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![Express](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![NodeJs](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
