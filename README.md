@@ -24,7 +24,7 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![Keystone](https://img.shields.io/badge/Keystone-informational?style=flat&logo=keystone&logoColor=white&color=2bbc8a)
+![Strapi](https://img.shields.io/badge/Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
