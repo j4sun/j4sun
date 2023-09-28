@@ -1,9 +1,9 @@
 # j4sun
-🌟 Product manager, software engineer
+🌟 software engineer
 
-📍 Sydneysider
+📍 sydneysider
 
-🚴 Avid cyclist, average surfer
+🚴 playing tennis and triathlon training in my spare time
 
 ## Technologies & Tools
 
